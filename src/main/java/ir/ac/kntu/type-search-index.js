@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ir.ac.kntu","l":"Daneshjo"},{"p":"ir.ac.kntu","l":"Dars"}];updateSearchResults();
